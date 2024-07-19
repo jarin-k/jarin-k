@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jarin K</h1>
+<h1 align="center">Hi, I'm Jarin K</h1>
 <h3 align="center">An aspiring cybersecurity professional from India</h3>
 
-- 📫 How to reach me **jarinmenon100@gmail.com**
+- Reach me **jarinmenon100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
