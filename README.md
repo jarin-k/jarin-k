@@ -30,29 +30,41 @@
   </section>
 
   <!-- Projects Section -->
-  <section class="projects">
-    <h2>Projects</h2>
-    <div class="project-grid">
-      <div class="project-card">
-        <img src="assets/images/project1.png" alt="Project 1">
-        <h3>Incident Response Simulation and Log Analysis</h3>
-        <p>A deep dive into incident detection using ELK Stack and Splunk.</p>
-        <a href="projects/project1.html" class="btn">View Project</a>
-      </div>
-      <div class="project-card">
-        <img src="assets/images/project2.png" alt="Project 2">
-        <h3>XSS VAPT of a Mock Web Application</h3>
-        <p>Discovering and exploiting cross-site scripting (XSS) and SQL Injection flaws in OWASP Juice Shop.</p>
-        <a href="projects/project2.html" class="btn">View Project</a>
-      </div>
-      <div class="project-card">
-        <img src="assets/images/project3.png" alt="Project 3">
-        <h3>Design and Implementation of Scalable Home Network Topology</h3>
-        <p>Exploiting and patching SQL injection vulnerabilities.</p>
-        <a href="projects/project3.html" class="btn">View Project</a>
-      </div>
+  <<section class="projects">
+  <h2>Projects</h2>
+  <div class="project-grid">
+    <div class="project-card">
+      <img src="assets/images/project1.png" alt="Project 1">
+      <h3>Incident Response Simulation and Log Analysis</h3>
+      <p>A deep dive into incident detection and response using ELK Stack and Splunk.</p>
+      <a href="projects/project1.html" class="btn">View Project</a>
     </div>
-  </section>
+    <div class="project-card">
+      <img src="assets/images/project2.png" alt="Project 2">
+      <h3>VAPT of a Mock Web Application</h3>
+      <p>Discovering and exploiting cross-site scripting (XSS) and SQL Injection (SQLi) flaws in OWASP Juice Shop.</p>
+      <a href="projects/project2.html" class="btn">View Project</a>
+    </div>
+    <div class="project-card">
+      <img src="assets/images/project3.png" alt="Project 3">
+      <h3>Design and Implementation of Scalable Home Network Topology</h3>
+      <p>Design of a network topology.</p>
+      <a href="projects/project3.html" class="btn">View Project</a>
+    </div>
+    <div class="project-card">
+      <img src="assets/images/project4.png" alt="Project 4">
+      <h3>Advanced Phishing Email Analysis</h3>
+      <p>Analyzed phishing email campaigns and mitigated threats using Splunk and email headers.</p>
+      <a href="projects/project4.html" class="btn">View Project</a>
+    </div>
+    <div class="project-card">
+      <img src="assets/images/project5.png" alt="Project 5">
+      <h3>SQL Injection Testing & Prevention</h3>
+      <p>Performed SQL Injection testing on mock web apps and implemented secure database queries.</p>
+      <a href="projects/project5.html" class="btn">View Project</a>
+    </div>
+  </div>
+</section>
 
   <!-- Footer Section -->
   <footer>
@@ -62,6 +74,5 @@
     </p>
   </footer>
 
-  <script src="script.js"></script>
 </body>
 </html>
