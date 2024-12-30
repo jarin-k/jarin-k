@@ -17,15 +17,21 @@
     <h2>About Me</h2>
     <p>
       Hi, I’m Jarin K, a cybersecurity enthusiast with a passion for securing digital systems and solving complex security challenges. 
-      I specialize in areas like SIEM, VAPT, Networking, Cloud. My journey in cybersecurity combines technical expertise with a strong commitment to staying updated on the latest trends and threats.
+      I specialize in areas like SIEM, Networking, VAPT, Operating Systems and Cloud. My journey in cybersecurity combines technical expertise with a strong commitment to staying updated on the latest trends and threats.
     </p>
     <h3>Key Skills</h3>
     <ul class="skills-list">
       <li>SIEM</li>
-      <li>Vulnerability Assessment & Penetration Testing (VAPT)</li>
-      <li>Cybersecurity Tools: Splunk, Burp Suite, Nessus, OWASP ZAP, Nmap, SQLmap, Metasploit</li>
       <li>Networking & Security Protocols</li>
-      <li>Effective Communication & Customer Support</li>
+      <li>Vulnerability Assessment & Penetration Testing (VAPT)</li>
+      <li>Operating Systems</li>
+      <li>Scripting</li>
+      <li>Cloud Services</li>
+      <li>Technical Support</li>
+      <li>Effective Communication</li>
+      <li>Problem Solving</li>
+      <li>Collaborative</li>
+      <li>Adaptability</li>
     </ul>
   </section>
 
