@@ -26,13 +26,13 @@
 
 </p>
 
-<br>
 
-    <!-- Knowledge & Skills Section -->
-    <section class="Knowledge & Skills">
+---
+
+  <!-- Knowledge & Skills Section -->
+  <section class="Knowledge & Skills">
   <h2>Knowledge & Skills</h2>
 
-<br>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
