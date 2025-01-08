@@ -23,11 +23,8 @@
 - I'm focusing on Blue Team skills to secure digital assets.
 - I’m currently learning and exploring **cloud technologies**, **programming languages**, and **cybersecurity certifications**.
 - Committed to continuously improving my knowledge in **Cybersecurity**.
-
 </p>
 
-
----
 
   <!-- Knowledge & Skills Section -->
   <section class="Knowledge & Skills">
@@ -43,8 +40,6 @@
 
   </div>
 </div>
-
----
 
   <!-- Projects Section -->
   <section class="projects">
