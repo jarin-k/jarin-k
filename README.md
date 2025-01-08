@@ -21,7 +21,18 @@
     </p>
     <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
+<details>
+  <summary>More about me</summary>
+  
+- I have 1 year of expertise in various security tools and technologies.
+- I’m currently learning and exploring **cloud technologies**, **programming languages**, and **cybersecurity certifications**.
+- Committed to continuously improving my knowledge in **Cybersecurity**.
+
+</details>
 <br>
+
+---
+
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -50,6 +61,8 @@
 
   </div>
 </div>
+
+---
 
   <!-- Projects Section -->
   <<section class="projects">
