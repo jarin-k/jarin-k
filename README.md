@@ -18,23 +18,19 @@
     <p>
       Hi, I’m Jarin K, a cybersecurity enthusiast with a passion for securing digital systems and solving complex security challenges. 
       I specialize in areas like SIEM, Networking, VAPT, Operating Systems and Cloud. My journey in cybersecurity combines technical expertise with a strong commitment to staying updated on the latest trends and threats.
-    </p>
-
-<details>
-  <summary>More about me</summary>
   
 - I have 1 year of expertise in various security tools and technologies.
 - I'm focusing on Blue Team skills to secure digital assets.
 - I’m currently learning and exploring **cloud technologies**, **programming languages**, and **cybersecurity certifications**.
 - Committed to continuously improving my knowledge in **Cybersecurity**.
 
-</details>
+</p>
+
 <br>
 
-
----
-    
-   <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+    <!-- Knowledge & Skills Section -->
+    <section class="Knowledge & Skills">
+  <h2>Knowledge & Skills</h2>
 
 <br>
 
@@ -47,6 +43,7 @@
 
   </div>
 </div>
+
 ---
 
   <!-- Projects Section -->
